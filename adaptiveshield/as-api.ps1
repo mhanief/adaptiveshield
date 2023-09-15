@@ -1,3 +1,11 @@
+# Created by Hanief Harun
+# Email: hanief.harun@ceridian.com
+# Website: https://skrinhitam.wordpress.com/
+# GitHub: https://github.com/mhanief/
+# Last update: 15/09/2023 (DD/MM/YYYY)
+# Project: SSPM Implementation
+# Description: Bash script to access to Workcloud server
+
 # This can be generated from Adaptive Shield dashboard
 # Steps to generate API key: User Profile > API > Generate new key
 $apiKey = "<api_key>"
